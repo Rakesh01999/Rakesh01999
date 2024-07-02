@@ -17,6 +17,9 @@
 ---
 
 <h3 align="left" style="color: rgb(0, 208, 255);">🚀 About Me</h3>
+<p>
+    I'm Rakesh Biswas, a passionate frontend developer with a love for web development and programming. I specialize in creating dynamic and responsive web applications .I'm constantly learning and exploring new technologies to improve my skills and deliver the best         user experiences.
+</p>
 
 - 🔭 I'm currently working on enhancing my MERN stack skills
 - 🔥 I'm passionate about creating beautiful and functional web experiences
