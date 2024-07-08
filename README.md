@@ -76,10 +76,12 @@
     <a href="https://www.facebook.com/rakeshbiswas.biswas.9843/" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rakesh biswas" height="30" width="40" style="filter: invert(70%) sepia(54%) saturate(463%) hue-rotate(130deg) brightness(86%) contrast(84%);" />
     </a>
-    <a href="https://discord.gg/rakesh biswas" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rakesh biswas" height="30" width="40" style="filter: invert(70%) sepia(54%) saturate(463%) hue-rotate(130deg) brightness(86%) contrast(84%);" />
+    <a href="https://www.linkedin.com/in/rakeshbiswas0199/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakesh biswas" height="30" width="40" style="filter: invert(70%) sepia(54%) saturate(463%) hue-rotate(130deg) brightness(86%) contrast(84%);" />
     </a>
 </p>
+
+
 
 ---
 
