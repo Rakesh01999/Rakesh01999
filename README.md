@@ -10,10 +10,10 @@
     <img src="https://komarev.com/ghpvc/?username=rakesh01999&label=Profile%20views&color=00d0ff&style=flat" alt="profile views" />
 </p>
 
+<!-- Add a new relevant GIF related to coding -->
 <p align="center">
-    <img src="https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif" alt="coding gif" width="600" />
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" width="600" />
 </p>
-
 ---
 
 <h3 align="left" style="color: rgb(0, 208, 255);">🚀 About Me</h3>
