@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-    A Passionate <span style="color: rgb(0, 208, 255);">Frontend Developer</span> || <span style="color: rgb(0, 208, 255);">Full Stack</span> Enthusiast
+    A Passionate <span style="color: rgb(0, 208, 255);">Full Stack ,Frontend Developer</span> || <span style="color: rgb(0, 208, 255);">Full Stack</span> Enthusiast
 </h3>
 
 <p align="center">
