@@ -25,7 +25,7 @@
 - 🔥 I'm passionate about creating beautiful and functional web experiences
 - 📫 How to reach me:
 - **rbiswas01999@gmail.com**
-- **[rbiswas01999@gmail.com](https://www.facebook.com/rakeshbiswas.biswas.9843/)**
+- **[facebook](https://www.facebook.com/rakeshbiswas.biswas.9843/)**
 
 ---
 
