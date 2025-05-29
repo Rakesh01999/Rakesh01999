@@ -163,9 +163,8 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00D0FF&center=true&vCenter=true&width=800&lines=The+only+way+to+do+great+work+is+to+love+what+you+do.+-+Steve+Jobs;Code+is+like+humor.+When+you+have+to+explain+it%2C+it's+bad.+-+Cory+House" alt="Typing SVG" />
 </p>
 
----
+<!-- ---
 
 <div align="center">
-<!-- <div align="center">
     <h4 style="color: rgb(0, 208, 255);">⭐ From <a href="https://github.com/rakesh01999">Rakesh Biswas</a></h4>
 </div> -->
