@@ -17,7 +17,7 @@
 
 ---
 
-<h3 align="left" style="color: rgb(0, 208, 255);">🚀 About Me </h3>
+<h3 align="left" style="color: rgb(0, 208, 255);">🚀 About Me</h3>
 <p>
     I'm Rakesh Biswas, a passionate full stack developer with expertise in modern web technologies. I specialize in creating scalable, responsive web applications using the MERN stack and Next.js. I'm constantly learning and exploring cutting-edge technologies to deliver exceptional user experiences and robust backend solutions.
 </p>
