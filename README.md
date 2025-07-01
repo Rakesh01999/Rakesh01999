@@ -10,6 +10,7 @@
     <img src="https://komarev.com/ghpvc/?username=rakesh01999&label=Profile%20views&color=00d0ff&style=flat" alt="profile views" />
 </p>
 
+
 <!-- Add a new relevant GIF related to coding -->
 <p align="center">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" width="600" />
