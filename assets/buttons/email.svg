@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="86" height="28" viewBox="0 0 86 28" role="img" aria-label="EMAIL">
+<svg xmlns="http://www.w3.org/2000/svg" width="110" height="34" viewBox="0 0 110 34" role="img" aria-label="EMAIL">
   <title>EMAIL</title>
-  <rect width="86" height="28" rx="4" fill="#00D0FF"/>
-  <g transform="translate(10 6) scale(0.6667)"><path fill="#0D1117" d="m20 8l-8 5l-8-5V6l8 5l8-5m0-2H4c-1.11 0-2 .89-2 2v12a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2"/></g>
-  <text x="32" y="18.5" fill="#0D1117" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1" textLength="42" lengthAdjust="spacing">EMAIL</text>
+  <rect width="110" height="34" rx="5" fill="#00D0FF"/>
+  <g transform="translate(14 7) scale(0.8333)"><path fill="#0D1117" d="m20 8l-8 5l-8-5V6l8 5l8-5m0-2H4c-1.11 0-2 .89-2 2v12a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2"/></g>
+  <text x="40" y="22" fill="#0D1117" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="1" textLength="54" lengthAdjust="spacing">EMAIL</text>
 </svg>
