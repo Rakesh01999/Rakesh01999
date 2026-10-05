@@ -17,7 +17,6 @@
   <a href="mailto:rbiswas01999@gmail.com"><img src="./assets/buttons/email.svg" height="34" alt="Email" /></a>
 </p>
 
----
 
 ## About
 
