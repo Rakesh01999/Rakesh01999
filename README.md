@@ -3,7 +3,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=2000&color=00D0FF&center=true&vCenter=true&width=520&height=40&lines=Hi+there%2C+I%27m+Rakesh+Biswas;Software+Engineer+%7C+Full+Stack+Developer" alt="Hi there, I'm Rakesh Biswas — Software Engineer | Full Stack Developer" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=2000&color=3D7FFF&center=true&vCenter=true&width=520&height=40&lines=Hi+there%2C+I%27m+Rakesh+Biswas;Software+Engineer+%7C+Full+Stack+Developer" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=2000&color=2D62D6&center=true&vCenter=true&width=520&height=40&lines=Hi+there%2C+I%27m+Rakesh+Biswas;Software+Engineer+%7C+Full+Stack+Developer" alt="Hi there, I'm Rakesh Biswas — Software Engineer | Full Stack Developer" />
+  </picture>
 </p>
 
 <p align="center">
@@ -30,9 +33,9 @@ I'm a full stack software engineer who builds web applications end to end: typed
 ### How to Reach Me
 
 <table>
-  <tr><td><b>Professional</b></td><td><a href="mailto:rbiswas01999@gmail.com"><img src="https://api.iconify.design/mdi/email.svg?color=%2300D0FF" height="20" alt="" align="absmiddle">&nbsp;rbiswas01999@gmail.com</a>&ensp; <a href="https://www.linkedin.com/in/rakeshbiswas0199/"><img src="https://api.iconify.design/mdi/linkedin.svg?color=%2300D0FF" height="20" alt="" align="absmiddle">&nbsp;LinkedIn</a>&ensp; <a href="https://github.com/Rakesh01999"><img src="https://api.iconify.design/mdi/github.svg?color=%2300D0FF" height="20" alt="" align="absmiddle">&nbsp;GitHub</a>&ensp; <a href="https://rakesh-biswas-portfolio-nextjs.vercel.app/"><img src="https://api.iconify.design/mdi/web.svg?color=%2300D0FF" height="20" alt="" align="absmiddle">&nbsp;Portfolio</a></td></tr>
-  <tr><td><b>Direct</b></td><td><a href="https://wa.me/8801999647103"><img src="https://api.iconify.design/mdi/whatsapp.svg?color=%2300D0FF" height="20" alt="" align="absmiddle">&nbsp;WhatsApp</a>&ensp; <a href="https://t.me/Rakesh01999"><img src="https://api.iconify.design/mdi/telegram.svg?color=%2300D0FF" height="20" alt="" align="absmiddle">&nbsp;Telegram</a>&ensp; <img src="https://api.iconify.design/mdi/phone.svg?color=%2300D0FF" height="20" alt="" align="absmiddle">&nbsp;+880 1999-647103</td></tr>
-  <tr><td><b>Social</b></td><td><a href="https://www.facebook.com/rakeshbiswas.biswas.9843/"><img src="https://api.iconify.design/mdi/facebook.svg?color=%2300D0FF" height="20" alt="" align="absmiddle">&nbsp;Facebook</a></td></tr>
+  <tr><td><b>Professional</b></td><td><a href="mailto:rbiswas01999@gmail.com"><img src="https://api.iconify.design/mdi/email.svg?color=%233D7FFF" height="20" alt="" align="absmiddle">&nbsp;rbiswas01999@gmail.com</a>&ensp; <a href="https://www.linkedin.com/in/rakeshbiswas0199/"><img src="https://api.iconify.design/mdi/linkedin.svg?color=%233D7FFF" height="20" alt="" align="absmiddle">&nbsp;LinkedIn</a>&ensp; <a href="https://github.com/Rakesh01999"><img src="https://api.iconify.design/mdi/github.svg?color=%233D7FFF" height="20" alt="" align="absmiddle">&nbsp;GitHub</a>&ensp; <a href="https://rakesh-biswas-portfolio-nextjs.vercel.app/"><img src="https://api.iconify.design/mdi/web.svg?color=%233D7FFF" height="20" alt="" align="absmiddle">&nbsp;Portfolio</a></td></tr>
+  <tr><td><b>Direct</b></td><td><a href="https://wa.me/8801999647103"><img src="https://api.iconify.design/mdi/whatsapp.svg?color=%233D7FFF" height="20" alt="" align="absmiddle">&nbsp;WhatsApp</a>&ensp; <a href="https://t.me/Rakesh01999"><img src="https://api.iconify.design/mdi/telegram.svg?color=%233D7FFF" height="20" alt="" align="absmiddle">&nbsp;Telegram</a>&ensp; <img src="https://api.iconify.design/mdi/phone.svg?color=%233D7FFF" height="20" alt="" align="absmiddle">&nbsp;+880 1999-647103</td></tr>
+  <tr><td><b>Social</b></td><td><a href="https://www.facebook.com/rakeshbiswas.biswas.9843/"><img src="https://api.iconify.design/mdi/facebook.svg?color=%233D7FFF" height="20" alt="" align="absmiddle">&nbsp;Facebook</a></td></tr>
 </table>
 
 ## Technical Skills
@@ -48,7 +51,7 @@ I'm a full stack software engineer who builds web applications end to end: typed
   </tr>
   <tr>
     <td><b>Backend</b></td>
-    <td><img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" height="20" alt="" align="absmiddle">&nbsp;Node.js&ensp; <img src="https://cdn.simpleicons.org/express/8B949E" height="20" alt="" align="absmiddle">&nbsp;Express&ensp; <img src="https://cdn.simpleicons.org/graphql/E10098" height="20" alt="" align="absmiddle">&nbsp;GraphQL&ensp; <img src="https://api.iconify.design/mdi/api.svg?color=%2300D0FF" height="20" alt="" align="absmiddle">&nbsp;REST APIs&ensp; <img src="https://cdn.simpleicons.org/jsonwebtokens/D63AFF" height="20" alt="" align="absmiddle">&nbsp;JWT&ensp; <img src="https://cdn.simpleicons.org/zod/5B8DEF" height="20" alt="" align="absmiddle">&nbsp;Zod&ensp; <img src="https://cdn.simpleicons.org/axios/8A63F0" height="20" alt="" align="absmiddle">&nbsp;Axios&ensp; bcrypt</td>
+    <td><img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" height="20" alt="" align="absmiddle">&nbsp;Node.js&ensp; <img src="https://cdn.simpleicons.org/express/8B949E" height="20" alt="" align="absmiddle">&nbsp;Express&ensp; <img src="https://cdn.simpleicons.org/graphql/E10098" height="20" alt="" align="absmiddle">&nbsp;GraphQL&ensp; <img src="https://api.iconify.design/mdi/api.svg?color=%233D7FFF" height="20" alt="" align="absmiddle">&nbsp;REST APIs&ensp; <img src="https://cdn.simpleicons.org/jsonwebtokens/D63AFF" height="20" alt="" align="absmiddle">&nbsp;JWT&ensp; <img src="https://cdn.simpleicons.org/zod/5B8DEF" height="20" alt="" align="absmiddle">&nbsp;Zod&ensp; <img src="https://cdn.simpleicons.org/axios/8A63F0" height="20" alt="" align="absmiddle">&nbsp;Axios&ensp; bcrypt</td>
   </tr>
   <tr>
     <td><b>Database & ORM</b></td>
@@ -95,12 +98,12 @@ Full stack MERN store for browsing, purchasing and managing bikes, with JWT auth
 ## GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rakesh01999&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D0FF&icon_color=00D0FF&text_color=C9D1D9" alt="GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh01999&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D0FF&text_color=C9D1D9&langs_count=6" alt="Most used languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rakesh01999&show_icons=true&hide_border=true&bg_color=0B0F17&title_color=3D7FFF&icon_color=3D7FFF&text_color=F5F7FA" alt="GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh01999&layout=compact&hide_border=true&bg_color=0B0F17&title_color=3D7FFF&text_color=F5F7FA&langs_count=6" alt="Most used languages" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com/?user=Rakesh01999&hide_border=true&background=0D1117&ring=00D0FF&fire=00D0FF&currStreakNum=C9D1D9&currStreakLabel=00D0FF&sideNums=C9D1D9&sideLabels=00D0FF&dates=8B949E" alt="Contributions and streaks" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=Rakesh01999&hide_border=true&background=0B0F17&ring=3D7FFF&fire=3D7FFF&currStreakNum=F5F7FA&currStreakLabel=3D7FFF&sideNums=F5F7FA&sideLabels=3D7FFF&dates=8B93A7" alt="Contributions and streaks" />
 </p>
 
 <p align="center">
@@ -112,9 +115,9 @@ Full stack MERN store for browsing, purchasing and managing bikes, with JWT auth
 <h3 align="center">Connect with me</h3>
 
 <p align="center">
-  <a href="mailto:rbiswas01999@gmail.com"><img src="https://api.iconify.design/mdi/email.svg?color=%2300D0FF" height="30" alt="Email" /></a>&emsp;
-  <a href="https://www.linkedin.com/in/rakeshbiswas0199/"><img src="https://api.iconify.design/mdi/linkedin.svg?color=%2300D0FF" height="30" alt="LinkedIn" /></a>&emsp;
-  <a href="https://www.facebook.com/rakeshbiswas.biswas.9843/"><img src="https://api.iconify.design/mdi/facebook.svg?color=%2300D0FF" height="30" alt="Facebook" /></a>
+  <a href="mailto:rbiswas01999@gmail.com"><img src="https://api.iconify.design/mdi/email.svg?color=%233D7FFF" height="30" alt="Email" /></a>&emsp;
+  <a href="https://www.linkedin.com/in/rakeshbiswas0199/"><img src="https://api.iconify.design/mdi/linkedin.svg?color=%233D7FFF" height="30" alt="LinkedIn" /></a>&emsp;
+  <a href="https://www.facebook.com/rakeshbiswas.biswas.9843/"><img src="https://api.iconify.design/mdi/facebook.svg?color=%233D7FFF" height="30" alt="Facebook" /></a>
 </p>
 
 <p align="center">
@@ -122,5 +125,5 @@ Full stack MERN store for browsing, purchasing and managing bikes, with JWT auth
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rakesh01999&label=Profile+views&color=161B22&style=flat-square" height="26" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Rakesh01999&label=Profile+views&color=3D7FFF&style=flat-square" height="26" alt="Profile views" />
 </p>
