@@ -119,9 +119,9 @@ Full stack MERN store for browsing, purchasing and managing bikes, with JWT auth
 <h3 align="center">Connect with me</h3>
 
 <p align="center">
-  <a href="mailto:rbiswas01999@gmail.com"><img src="https://api.iconify.design/mdi/email.svg?color=%233D7FFF" height="30" alt="Email" /></a>&emsp;
-  <a href="https://www.linkedin.com/in/rakeshbiswas0199/"><img src="https://api.iconify.design/mdi/linkedin.svg?color=%233D7FFF" height="30" alt="LinkedIn" /></a>&emsp;
-  <a href="https://www.facebook.com/rakeshbiswas.biswas.9843/"><img src="https://api.iconify.design/mdi/facebook.svg?color=%233D7FFF" height="30" alt="Facebook" /></a>
+  <a href="mailto:rbiswas01999@gmail.com"><img src="https://api.iconify.design/mdi/email.svg?color=%233D7FFF" width="28" height="28" alt="Email" /></a>&emsp;
+  <a href="https://www.linkedin.com/in/rakeshbiswas0199/"><img src="https://api.iconify.design/mdi/linkedin.svg?color=%233D7FFF" width="28" height="28" alt="LinkedIn" /></a>&emsp;
+  <a href="https://www.facebook.com/rakeshbiswas.biswas.9843/"><img src="https://api.iconify.design/mdi/facebook.svg?color=%233D7FFF" width="28" height="28" alt="Facebook" /></a>
 </p>
 
 <p align="center">
