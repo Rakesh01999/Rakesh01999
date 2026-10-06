@@ -4,8 +4,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=2000&color=3D7FFF&center=true&vCenter=true&width=520&height=40&lines=Hi+there%2C+I%27m+Rakesh+Biswas;Software+Engineer+%7C+Full+Stack+Developer" />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=2000&color=2D62D6&center=true&vCenter=true&width=520&height=40&lines=Hi+there%2C+I%27m+Rakesh+Biswas;Software+Engineer+%7C+Full+Stack+Developer" alt="Hi there, I'm Rakesh Biswas — Software Engineer | Full Stack Developer" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3500&pause=2000&color=3D7FFF&center=true&vCenter=true&width=520&height=40&lines=Hi+there%2C+I%27m+Rakesh+Biswas;Software+Engineer+%7C+Full+Stack+Developer" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3500&pause=2000&color=2D62D6&center=true&vCenter=true&width=520&height=40&lines=Hi+there%2C+I%27m+Rakesh+Biswas;Software+Engineer+%7C+Full+Stack+Developer" alt="Hi there, I'm Rakesh Biswas — Software Engineer | Full Stack Developer" />
   </picture>
 </p>
 
@@ -15,9 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://rakesh-biswas-portfolio-nextjs.vercel.app/"><img src="./assets/buttons/portfolio.svg" height="34" alt="Portfolio" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/rakeshbiswas0199/"><img src="./assets/buttons/linkedin.svg" height="34" alt="LinkedIn" /></a>&nbsp;
-  <a href="mailto:rbiswas01999@gmail.com"><img src="./assets/buttons/email.svg" height="34" alt="Email" /></a>
+<a href="https://rakesh-biswas-portfolio-nextjs.vercel.app/"><picture><source media="(max-width: 400px)" srcset="./assets/buttons/portfolio-xs.svg" /><source media="(max-width: 520px)" srcset="./assets/buttons/portfolio-sm.svg" /><img src="./assets/buttons/portfolio.svg" alt="Portfolio" /></picture></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/rakeshbiswas0199/"><picture><source media="(max-width: 400px)" srcset="./assets/buttons/linkedin-xs.svg" /><source media="(max-width: 520px)" srcset="./assets/buttons/linkedin-sm.svg" /><img src="./assets/buttons/linkedin.svg" alt="LinkedIn" /></picture></a>&nbsp;&nbsp;<a href="mailto:rbiswas01999@gmail.com"><picture><source media="(max-width: 400px)" srcset="./assets/buttons/email-xs.svg" /><source media="(max-width: 520px)" srcset="./assets/buttons/email-sm.svg" /><img src="./assets/buttons/email.svg" alt="Email" /></picture></a>
 </p>
 
 
@@ -102,12 +100,12 @@ Full stack MERN store for browsing, purchasing and managing bikes, with JWT auth
 ## GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rakesh01999&show_icons=true&hide_border=true&bg_color=0B0F17&title_color=3D7FFF&icon_color=3D7FFF&text_color=F5F7FA" alt="GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh01999&layout=compact&hide_border=true&bg_color=0B0F17&title_color=3D7FFF&text_color=F5F7FA&langs_count=6" alt="Most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rakesh01999&show_icons=true&hide_border=true&bg_color=0B0F17&title_color=3D7FFF&icon_color=3D7FFF&text_color=F5F7FA" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh01999&layout=compact&hide_border=true&bg_color=0B0F17&title_color=3D7FFF&text_color=F5F7FA&langs_count=6" alt="Most used languages" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com/?user=Rakesh01999&hide_border=true&background=0B0F17&ring=3D7FFF&fire=3D7FFF&currStreakNum=F5F7FA&currStreakLabel=3D7FFF&sideNums=F5F7FA&sideLabels=3D7FFF&dates=8B93A7" alt="Contributions and streaks" />
+  <img src="https://streak-stats.demolab.com/?user=Rakesh01999&hide_border=true&background=0B0F17&ring=3D7FFF&fire=3D7FFF&currStreakNum=F5F7FA&currStreakLabel=F5F7FA&sideNums=F5F7FA&sideLabels=F5F7FA&dates=8B93A7" alt="Contributions and streaks" />
 </p>
 
 <p align="center">
