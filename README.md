@@ -33,7 +33,7 @@ I'm a full stack software engineer who builds web applications end to end: typed
 <table>
   <tr><td><b>Professional</b></td><td><a href="mailto:rbiswas01999@gmail.com"><img src="https://api.iconify.design/mdi/email.svg?color=%233D7FFF" height="20" alt="" align="absmiddle">&nbsp;rbiswas01999@gmail.com</a>&ensp; <a href="https://www.linkedin.com/in/rakeshbiswas0199/"><img src="https://api.iconify.design/mdi/linkedin.svg?color=%233D7FFF" height="20" alt="" align="absmiddle">&nbsp;LinkedIn</a>&ensp; <a href="https://github.com/Rakesh01999"><img src="https://api.iconify.design/mdi/github.svg?color=%233D7FFF" height="20" alt="" align="absmiddle">&nbsp;GitHub</a>&ensp; <a href="https://rakesh-biswas-portfolio-nextjs.vercel.app/"><img src="https://api.iconify.design/mdi/web.svg?color=%233D7FFF" height="20" alt="" align="absmiddle">&nbsp;Portfolio</a></td></tr>
   <tr><td><b>Direct</b></td><td><a href="https://wa.me/8801999647103"><img src="https://api.iconify.design/mdi/whatsapp.svg?color=%233D7FFF" height="20" alt="" align="absmiddle">&nbsp;WhatsApp</a>&ensp; <a href="https://t.me/Rakesh01999"><img src="https://api.iconify.design/mdi/telegram.svg?color=%233D7FFF" height="20" alt="" align="absmiddle">&nbsp;Telegram</a>&ensp; <img src="https://api.iconify.design/mdi/phone.svg?color=%233D7FFF" height="20" alt="" align="absmiddle">&nbsp;+880&nbsp;1999&#8209;647103</td></tr>
-  <tr><td><b>Social</b></td><td><a href="https://www.facebook.com/rakeshbiswas.biswas.9843/"><img src="https://api.iconify.design/mdi/facebook.svg?color=%233D7FFF" height="20" alt="" align="absmiddle">&nbsp;Facebook</a></td></tr>
+  <tr><td><b>Social</b></td><td><a href="https://www.facebook.com/RakeshBiswasFB/"><img src="https://api.iconify.design/mdi/facebook.svg?color=%233D7FFF" height="20" alt="" align="absmiddle">&nbsp;Facebook</a></td></tr>
 </table>
 
 ## Technical Skills
@@ -119,7 +119,7 @@ Full stack MERN store for browsing, purchasing and managing bikes, with JWT auth
 <p align="center">
   <a href="mailto:rbiswas01999@gmail.com"><img src="https://api.iconify.design/mdi/email.svg?color=%233D7FFF" width="28" height="28" alt="Email" /></a>&emsp;
   <a href="https://www.linkedin.com/in/rakeshbiswas0199/"><img src="https://api.iconify.design/mdi/linkedin.svg?color=%233D7FFF" width="28" height="28" alt="LinkedIn" /></a>&emsp;
-  <a href="https://www.facebook.com/rakeshbiswas.biswas.9843/"><img src="https://api.iconify.design/mdi/facebook.svg?color=%233D7FFF" width="28" height="28" alt="Facebook" /></a>
+  <a href="https://www.facebook.com/RakeshBiswasFB/"><img src="https://api.iconify.design/mdi/facebook.svg?color=%233D7FFF" width="28" height="28" alt="Facebook" /></a>
 </p>
 
 <p align="center">
